@@ -2,8 +2,6 @@
 """
 Created on Tue Feb 11 07:26:32 2020
 
-@author: UMESH DASPATTANAYAK
-"""
 
 
 
